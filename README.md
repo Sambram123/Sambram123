@@ -16,6 +16,10 @@ I enjoy building scalable web applications and intelligent AI-driven systems tha
 
 ---
 
+![snake gif](https://github.com/Sambram123/Sambram123/blob/output/github-snake-dark.svg)
+
+---
+
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
