@@ -12,7 +12,7 @@ I enjoy building scalable web applications and intelligent AI-driven systems tha
 - 🤖 Passionate about AI, Machine Learning & Full Stack Development
 - 🌱 Currently exploring Generative AI & Intelligent Systems
 - 💡 Love building real-world scalable applications
-- 🏆 Hackathon Winner & AI Enthusiast
+- 🏆 AI Enthusiast
 
 ---
 
@@ -64,43 +64,6 @@ I enjoy building scalable web applications and intelligent AI-driven systems tha
 
 ---
 
-# 🚀 Featured Projects
-
-## 📂 FileSphere – Cloud File Management System
-A responsive cloud-based file management application supporting uploads, previews, authentication, and cross-device accessibility.
-
-### 🔧 Tech Stack
-React.js • Firebase • Material UI • Cloudinary
-
-🔗 **Live Demo**  
-https://notes-app-ec71c.web.app/
-
-🔗 **GitHub Repository**  
-https://github.com/Sambram123/FileSphere-Cloud-Based-File-Management-System
-
----
-
-## 🦺 Industriguard AI – Industrial Safety Monitoring Platform
-AI-powered industrial safety system for PPE compliance detection and employee monitoring using computer vision.
-
-### 🔧 Tech Stack
-Python • OpenCV • YOLO • Flask • SQLite • React
-
-🔗 **GitHub Repository**  
-https://github.com/Sambram123/Industriguard-AI
-
----
-
-## 🏠 RentEase – Property Rental & Booking Platform
-A full-stack MERN property rental platform with online booking, payments, and real-time location support.
-
-### 🔧 Tech Stack
-React.js • Node.js • Express.js • MongoDB • Firebase • Razorpay
-
-🔗 **GitHub Repository**  
-https://github.com/Sambram123/RentEase--Property-Rental-Booking-Platform
-
----
 ## 📈 GitHub Analytics
 
 <div align="center">
