@@ -84,6 +84,3 @@ I enjoy building scalable web applications and intelligent AI-driven systems tha
 
 ---
 
-# ✨ Quote
-
-> “Building intelligent systems that create real-world impact.”
