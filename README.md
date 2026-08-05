@@ -66,7 +66,7 @@ I enjoy building scalable web applications and intelligent AI-driven systems tha
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sambram123&theme=dark"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Sambram123&theme=dark"/>
 
 </div>
 
